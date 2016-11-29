@@ -1,0 +1,78 @@
+2 Players
+10vs5 (filhos)(1000)
+Fase 1
+Player 1 won in 49 plays. Time : 67 minutes
+Player 0 won in 50 plays. Time : 65 minutes
+Player 1 won in 45 plays. Time : 55 minutes
+Player 1 won in 52 plays. Time : 65 minutes
+Player 1 won in 43 plays. Time : 55 minutes
+Player 1 won in 52 plays. Time : 71 minutes
+Player 0 won in 51 plays. Time : 62 minutes
+Player 0 won in 52 plays. Time : 69 minutes
+Player 0 won in 49 plays. Time : 69 minutes
+Player 1 won in 51 plays. Time : 71 minutes
+Player 0 won in 51 plays. Time : 71 minutes
+Player 0 won in 50 plays. Time : 70 minutes
+Player 1 won in 54 plays. Time : 65 minutes
+Player 1 won in 41 plays. Time : 47 minutes
+Player 1 won in 50 plays. Time : 60 minutes
+Fase 2
+Player 0 won in 56 plays. Time : 61 minutes
+Player 0 won in 49 plays. Time : 65 minutes
+Player 0 won in 48 plays. Time : 54 minutes
+Player 1 won in 68 plays. Time : 80 minutes
+Player 0 won in 54 plays. Time : 62 minutes
+Player 0 won in 44 plays. Time : 56 minutes
+Player 0 won in 47 plays. Time : 59 minutes
+Player 1 won in 53 plays. Time : 71 minutes
+Player 1 won in 50 plays. Time : 62 minutes
+Player 0 won in 53 plays. Time : 78 minutes
+Player 1 won in 48 plays. Time : 64 minutes
+Player 1 won in 51 plays. Time : 80 minutes
+Player 0 won in 65 plays. Time : 72 minutes
+Player 1 won in 46 plays. Time : 65 minutes
+Player 1 won in 48 plays. Time : 66 minutes
+10vs5 (filhos)(2000)
+Fase 1
+Player 0 won in 56 plays. Time : 164 minutes
+Player 0 won in 50 plays. Time : 139 minutes
+Player 0 won in 54 plays. Time : 149 minutes
+Player 1 won in 58 plays. Time : 144 minutes
+Player 0 won in 50 plays. Time : 137 minutes
+Player 1 won in 53 plays. Time : 148 minutes
+Player 1 won in 56 plays. Time : 141 minutes
+Player 1 won in 52 plays. Time : 136 minutes
+Player 0 won in 48 plays. Time : 123 minutes
+Player 0 won in 45 plays. Time : 118 minutes
+Player 0 won in 49 plays. Time : 134 minutes
+Player 0 won in 49 plays. Time : 127 minutes
+Player 0 won in 56 plays. Time : 157 minutes
+Player 1 won in 49 plays. Time : 134 minutes
+Player 0 won in 44 plays. Time : 121 minutes
+Fase 2
+Player 0 won in 52 plays. Time : 145 minutes
+Player 1 won in 51 plays. Time : 139 minutes
+Player 0 won in 54 plays. Time : 153 minutes
+Player 1 won in 48 plays. Time : 130 minutes
+Player 0 won in 45 plays. Time : 113 minutes
+Player 1 won in 49 plays. Time : 136 minutes
+Player 1 won in 50 plays. Time : 122 minutes
+Player 1 won in 55 plays. Time : 110 minutes
+Player 0 won in 47 plays. Time : 121 minutes
+Player 0 won in 49 plays. Time : 140 minutes
+Player 1 won in 47 plays. Time : 130 minutes
+Player 1 won in 52 plays. Time : 145 minutes
+Player 1 won in 52 plays. Time : 125 minutes
+Player 1 won in 51 plays. Time : 137 minutes
+Player 1 won in 48 plays. Time : 126 minutes
+10vs5 (filhos)(4000)
+Fase 1
+Player 1 won in 44 plays. Time : 227 minutes
+Player 0 won in 45 plays. Time : 228 minutes
+Player 0 won in 49 plays. Time : 269 minutes
+Player 0 won in 50 plays. Time : 267 minutes
+Player 1 won in 48 plays. Time : 271 minutes
+Player 0 won in 46 plays. Time : 226 minutes
+Player 1 won in 49 plays. Time : 273 minutes
+Player 0 won in 49 plays. Time : 261 minutes
+Player 0 won in 48 plays. Time : 248 minutes
